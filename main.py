@@ -3,7 +3,7 @@ import asyncio
 import aioschedule
 
 
-bot = Bot(token='5602209708:AAGyWRSIB_9T78fFVuR3LdwmfD4hq97Tr8g')
+bot = Bot(token='Telegram_Token')
 dp = Dispatcher(bot)
 
 
